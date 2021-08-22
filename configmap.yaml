@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: myfoobar
+data:
+  FOO: bar
+  BAR: foo
+  FOOBAR: barfoo
